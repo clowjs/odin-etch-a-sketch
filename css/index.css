@@ -30,3 +30,7 @@ body {
     min-width: 32px;
 }
 
+.square:hover {
+    background-color: rgb(94, 126, 32);
+}
+
